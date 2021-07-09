@@ -10,6 +10,7 @@
 - E-mail: vgearen@gmail.com
 
 
+**Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Vue.js       1 hr 50 mins    ████████░░░░░░░░░░░░░░░░░   32.09 % 
