@@ -4,7 +4,6 @@
 -   🥷 Java / Python / JavaScript
 
 **Where to find me**
-- [My Notes](https://vgearen.github.io/)
 - E-mail: vgearen@gmail.com
 
 
